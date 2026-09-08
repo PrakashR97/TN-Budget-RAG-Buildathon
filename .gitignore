@@ -1,0 +1,11 @@
+# API Credentials and Environment Variables
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Virtual Environments and Downloaded Libraries
+venv/
+.venv/
+env/
+ENV/
+site-packages/
